@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\tiendien\tiendien\bin\Debug\net7.0\tiendien.exe
+C:\Users\ASUS\source\repos\tiendien\tiendien\bin\Debug\net7.0\tiendien.deps.json
+C:\Users\ASUS\source\repos\tiendien\tiendien\bin\Debug\net7.0\tiendien.runtimeconfig.json
+C:\Users\ASUS\source\repos\tiendien\tiendien\bin\Debug\net7.0\tiendien.dll
+C:\Users\ASUS\source\repos\tiendien\tiendien\bin\Debug\net7.0\tiendien.pdb
+C:\Users\ASUS\source\repos\tiendien\tiendien\obj\Debug\net7.0\tiendien.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\tiendien\tiendien\obj\Debug\net7.0\tiendien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\tiendien\tiendien\obj\Debug\net7.0\tiendien.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\tiendien\tiendien\obj\Debug\net7.0\tiendien.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\tiendien\tiendien\obj\Debug\net7.0\tiendien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\tiendien\tiendien\obj\Debug\net7.0\tiendien.dll
+C:\Users\ASUS\source\repos\tiendien\tiendien\obj\Debug\net7.0\refint\tiendien.dll
+C:\Users\ASUS\source\repos\tiendien\tiendien\obj\Debug\net7.0\tiendien.pdb
+C:\Users\ASUS\source\repos\tiendien\tiendien\obj\Debug\net7.0\tiendien.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\tiendien\tiendien\obj\Debug\net7.0\ref\tiendien.dll
